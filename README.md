@@ -1,2 +1,2 @@
-# Skin_cancer_detection
+# skin_cancer_detection
 This repo is hackerrank challange to build the Skin Cancer Detector
